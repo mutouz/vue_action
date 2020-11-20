@@ -3,5 +3,5 @@
 //     outputDir: 'dist',
 //     publicPath: process.env.NODE_ENV === 'production'
 //       ? '/vue_action/'
-//       : '/vue_action/'
+//       : '/'
 //   }
